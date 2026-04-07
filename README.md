@@ -31,12 +31,9 @@ OPTICA is intended to support fast pre-design reasoning before moving into detai
 
 Prototype / concept-stage decision support tool.
 
-## Live demo
+## Live Demo
 
-Add your GitHub Pages link here.
-
-https://github.com/robertoansaras-sys/optica-predesign.git
----
+👉 https://robertoansaras-sys.github.io/optica/
 
 ## Author
 
