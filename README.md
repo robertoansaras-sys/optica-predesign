@@ -33,7 +33,7 @@ Prototype / concept-stage decision support tool.
 
 ## Live Demo
 
-👉 https://robertoansaras-sys.github.io/optica/
+👉 https://robertoansaras-sys.github.io/optica-predesign/
 
 ## Author
 
